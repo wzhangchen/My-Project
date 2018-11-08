@@ -1,0 +1,39 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+a:hover{
+    text-decoration:none;
+}
+/*定义头部信息*/
+#top{
+    background:#F7F7F7;
+    height:40px;
+    border:1px solid #CCCCCC;
+}
+.top_nav ul li,.top_nav ul li a{
+    line-height:40px;
+    font-size:5px;
+    color:#666;
+}
+.top_nav ul li a:hover{
+    color:#0aa1ed;
+}
+.shopping_car{
+    margin-right:40%;
+}
+.shopping_car input{
+    font-size:13px;
+}
+.tsearch{
+    font-size:14px;
+    background:linear-gradient(to bottom,#B81B22,#B71C22);
+}
+
+.nav_list li{
+    border-left:1px solid #B77D66;
+    width:11%;
+    line-height:2.1;
+    color:#B77D66;
+    font-size:15px;
+}
